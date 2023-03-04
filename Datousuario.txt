@@ -1,0 +1,2 @@
+su nombre como dato de
+usuario y una contraseña inventada
